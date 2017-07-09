@@ -1,2 +1,2 @@
 # scalesideways
-I like building scalable APIs.
+Thoughts on designing, building and scaling software
